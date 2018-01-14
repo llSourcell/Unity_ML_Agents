@@ -1,5 +1,15 @@
 <img src="images/unity-wide.png" align="middle" width="3000"/>
 
+
+# Coding Challenge
+
+This weeks challenge is to build an AI in Unity using ML Agents! Post your Github link in the youtube comment section of the video. Good luck!
+
+#### This is the code for [this](https://youtu.be/bqsfkGbBU6k) video on Youtube by Siraj Raval. 
+
+
+## Original Repo - https://github.com/Unity-Technologies/ml-agents
+
 # Unity ML - Agents (Beta)
 
 **Unity Machine Learning Agents** allows researchers and developers to
