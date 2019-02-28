@@ -15,7 +15,7 @@ _Notice: This feature is still experimental. While it is possible to embed train
 ## Requirements
 
 * Unity 2017.1 or above
-* Unity Tensorflow Plugin ([Download here](https://s3.amazonaws.com/unity-agents/0.2/TFSharpPlugin.unitypackage))
+* Unity Tensorflow Plugin ([Download here](https://s3.amazonaws.com/unity-ml-agents/0.5/TFSharpPlugin.unitypackage))
 # Using TensorflowSharp with ML-Agents
 
 In order to bring a fully trained agent back into Unity, you will need to make sure the nodes of your graph have appropriate names. You can give names to nodes in Tensorflow :
